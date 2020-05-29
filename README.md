@@ -1,2 +1,1 @@
-# SVM-Logistic_Regression-PCA
-SVM, Logistic Regression and PCA implementations on subset of CIFAR100.
+SVM, Logistic Regression and PCA implementations and analysis on subset of [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html) and [leaf dataset](https://www.kaggle.com/c/leaf-classification/data) from Kaggle for CS-464 Machine Learning course.
